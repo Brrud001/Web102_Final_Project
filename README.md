@@ -1,6 +1,3 @@
-# Web102_Final_Project
-Final Project for Web102
-
 # Web Development Final Project - Level Up Lounge
 
 Submitted by: Brian Rudowitz
@@ -39,7 +36,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/COP4808-Spring2024-Full-Stack-Webdev/final-project-Brrud001/blob/main/web102_hobbyhub-main/public/Final_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/COP4808-Spring2024-Full-Stack-Webdev/hw7-Brrud001/blob/main/Site%20Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenPal
 
